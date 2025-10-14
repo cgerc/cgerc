@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CookIA](https://github.com/cgerc/proyectofinal_cwnc)
 
-- 🌱 I’m currently learning **Java, Oracle :)**
+- 🌱 I’m currently learning **Java, Data Science, Oracle :)**
 
 - 👯 I’m looking to collaborate on **generate good prompts**
 
